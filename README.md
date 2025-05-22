@@ -12,8 +12,8 @@ This is a web application to manage bulk data, implementing CRUD (Create, Read, 
 
 
 ## Core Functional Requirements
-- **POST** `/records/bulk` : Add multiple records in bulk
-- **GET** `/records` : Fetch all records
+- **POST** `api/records/bulk` : Add multiple records in bulk
+- **GET** `api/records` : Fetch all records
 
 ## Testing
 - Testing done with JUnit and Mockito
